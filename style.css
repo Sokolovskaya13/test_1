@@ -1,0 +1,32 @@
+.header{
+	background: transparent;
+	border:none;
+}
+
+body{
+	background: url("http://nevseoboi.com.ua/uploads/posts/2012-04/1335708976-1051344-0076923_www.nevseoboi.com.ua.jpg") no-repeat;
+}
+.menu{
+	float: right;
+	font-size: 18px;
+}
+
+.menu li a, .logo{
+	color:white!important;
+}
+
+.logo {
+	font-weight: bold!important;
+}
+
+.tagline{
+	font-size: 60px;
+	color:white;
+	margin-top:200px;
+}
+
+.tagline-btn{
+	width:220px;
+	font-size: 18px;
+	margin-top:20px;
+}
